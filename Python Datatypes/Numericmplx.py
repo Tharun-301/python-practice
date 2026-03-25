@@ -1,0 +1,7 @@
+a = complex(10)
+b = complex(2,5)
+c = complex(-2,-7)
+print(a)
+print(type(a))
+print(b)
+print(c)

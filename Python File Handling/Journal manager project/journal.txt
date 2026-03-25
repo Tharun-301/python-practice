@@ -1,0 +1,7 @@
+Learning Python Programming
+1. Installed Python and ran my first “Hello, World!” script.
+2. Practiced creating variables and printing user input.
+3. Wrote basic if-else statements and used loops for the first time.
+4. Fixed indentation errors in my code and learned why they matter.
+5. Created simple functions to reuse code more easily.
+6. Learned File Handling

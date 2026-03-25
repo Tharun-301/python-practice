@@ -1,0 +1,6 @@
+This is the text file.
+it is stored in hard disk.
+python file handling.
+Tharun
+jason
+sathunuru

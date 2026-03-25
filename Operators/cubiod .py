@@ -1,0 +1,5 @@
+l = int(input("Enter the length: "))
+b = int(input('Enter the breadth: '))
+h = int(input('Enter the height: '))
+area = 2*(l*b + l*h + b*h)
+print('Area is',area)

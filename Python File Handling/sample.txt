@@ -1,0 +1,1 @@
+Hello World! file pointer has two methods tell() and seek()

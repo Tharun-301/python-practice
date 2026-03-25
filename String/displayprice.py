@@ -1,0 +1,5 @@
+item = input('Enter item: ')
+price = input('Enter price: ') 
+total_len = len(item) + len(price)
+dash = '-' * (20 - total_len )
+print(item +' '+ dash +' '+ price)
